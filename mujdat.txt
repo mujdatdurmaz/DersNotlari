@@ -1,1 +1,3 @@
-yeni yazılar eklendi
+yeni yazılar eklendi.
+
+bu da githubdan geliyor.
